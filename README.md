@@ -1,6 +1,5 @@
 <!-- reference: https://github.com/anuraghazra/github-readme-stats -->
 <!-- reference: https://github.com/anran758/anran758 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">I'm Nydusz! </h2>
 
